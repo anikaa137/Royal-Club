@@ -1,0 +1,24 @@
+.player-cart img {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+}
+.player-cart{
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 5px;
+    padding: 5px;
+    width:200px;
+    overflow: hidden;
+}
+.club-name{
+   color:#e64946
+}
+.dashboard{
+    background-color: lavenderblush;
+    padding:10px;
+  width: ;: 100%;
+    border-radius: 15px;
+    color:cornflowerblue;
+   
+}

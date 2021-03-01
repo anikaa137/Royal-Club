@@ -1,0 +1,19 @@
+.player-details{
+    margin: 20px;
+    padding: 30px;
+    border-radius:10px;
+}
+
+.player-img img{
+    object-fit: cover;
+    width: 100%;
+}
+.button{
+    background-color: #e64946;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    outline: 0;
+    cursor: pointer;
+
+}
