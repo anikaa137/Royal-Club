@@ -15,7 +15,6 @@ const Team = () => {
   };
   return (
     <div>
-      <h1 className="team-name">Bangladesh national cricket team</h1>
       <div className="players-container">
         <div className="player-info">
           {players.map((player) => (
